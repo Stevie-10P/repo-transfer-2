@@ -9,3 +9,7 @@ aio_AFAl78NPVow9ATNDZ0AgvICgLygp
 aio_HKhn497s5qA21gC1iwSn4V5qTjV0
 
 CLOJARS_55caac69f43c796b63a772a1291965625d786538f22df961766827577027
+
+same secret here as in ignored path, but only this one should produce alert
+
+glc_eyJvIjoiMjI0MjAyIiwibiI6InRlc3RpbmctMiIsImsiOiIzKTApezBcdTAwM2NKayxcdTAwM2U2OCF0fTckMjksMHY0IiwibSI6eyJyIjoidXMifX0=
