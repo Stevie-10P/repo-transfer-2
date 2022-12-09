@@ -2,6 +2,8 @@
 
 free public repos bug bash
 
+all secrets below are tests for ☝️
+
 aio_FMBo07xPM4e0Aj3eYjO23blItBvS
 
 aio_AFAl78NPVow9ATNDZ0AgvICgLygp
